@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+         |-----handy-ruler------------------------------------------------------|
+libsodium: libsodium (a p(ortable|ackageable) NaCl-based crypto library)
+libsodium:
+libsodium: Sodium is a portable, cross-compilable, installable, packageable fork
+libsodium: of NaCl, with a compatible API. NaCl (pronounced "salt") is a new
+libsodium: easy-to-use high-speed software library for network communication,
+libsodium: encryption, decryption, signatures, etc.
+libsodium:
+libsodium: Sodium is a shared library with a machine-independent set of headers
+libsodium: to be used by 3rd party projects. Sodium ships with the SUPERCOP
+libsodium: reference implementation of Ed25519. It does not ship C++ bindings.
+libsodium:
