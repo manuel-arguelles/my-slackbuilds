@@ -1,5 +1,5 @@
 PRGNAM="libb2"
-VERSION="0.97"
+VERSION="0.98"
 HOMEPAGE="https://blake2.net/"
 DOWNLOAD="https://blake2.net/libb2-0.98.tar.gz"
 MD5SUM="bb263f6b04e982e3d488797b5ce7dc26"
