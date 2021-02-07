@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+          |-----handy-ruler------------------------------------------------------|
+obfs4proxy: obfs4proxy (The obfourscator)
+obfs4proxy:
+obfs4proxy: Is a look-like nothing obfuscation protocol that incorporates ideas
+obfs4proxy: and concepts from Philipp Winter's ScrambleSuit protocol.
+obfs4proxy:
+obfs4proxy: Obfs4proxy also supports acting as an obfs2/3 client and bridge to
+obfs4proxy: ease the transition to the new protocol.
+obfs4proxy:
+obfs4proxy:
+obfs4proxy:
+obfs4proxy:
