@@ -1,0 +1,7 @@
+An XDG Desktop Portal backend for Hyprland
+
+Works by exposing a series of D-Bus interfaces known as portals under
+a well-known name and object pack.
+
+The portal interfaces include APIs for file access, opening URIs,
+printing and others.
